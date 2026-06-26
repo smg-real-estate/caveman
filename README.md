@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JuliusBrussee/caveman/stargazers"><img src="https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat&color=yellow" alt="Stars"></a>
-  <a href="https://github.com/JuliusBrussee/caveman/commits/main"><img src="https://img.shields.io/github/last-commit/JuliusBrussee/caveman?style=flat" alt="Last Commit"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/JuliusBrussee/caveman?style=flat" alt="License"></a>
+  <a href="https://github.com/smg-real-estate/caveman/stargazers"><img src="https://img.shields.io/github/stars/smg-real-estate/caveman?style=flat&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/smg-real-estate/caveman/commits/main"><img src="https://img.shields.io/github/last-commit/smg-real-estate/caveman?style=flat" alt="Last Commit"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/smg-real-estate/caveman?style=flat" alt="License"></a>
 </p>
 
 <p align="center">
@@ -102,10 +102,10 @@ One line. Find every agent. Install for each.
 
 ```bash
 # macOS / Linux / WSL / Git Bash
-curl -fsSL https://raw.githubusercontent.com/JuliusBrussee/caveman/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/smg-real-estate/caveman/main/install.sh | bash
 
 # Windows (PowerShell 5.1+)
-irm https://raw.githubusercontent.com/JuliusBrussee/caveman/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/smg-real-estate/caveman/main/install.ps1 | iex
 ```
 
 ~30 seconds. Needs Node ≥18. Skip agent you no have. Safe to re-run.
@@ -187,10 +187,10 @@ Caveman teach lobster brevity — same canonical installer, scoped to one agent:
 
 ```bash
 # macOS / Linux / WSL
-curl -fsSL https://raw.githubusercontent.com/JuliusBrussee/caveman/main/install.sh | bash -s -- --only openclaw
+curl -fsSL https://raw.githubusercontent.com/smg-real-estate/caveman/main/install.sh | bash -s -- --only openclaw
 
 # Windows (PowerShell): no Node? install Node ≥18 first, then
-npx -y github:JuliusBrussee/caveman -- --only openclaw
+npx -y github:smg-real-estate/caveman -- --only openclaw
 ```
 
 Two thing happen, no more:
@@ -215,7 +215,7 @@ Five tools. One philosophy: **agent do more with less**.
 
 | Repo | What |
 |------|------|
-| [**caveman**](https://github.com/JuliusBrussee/caveman) *(you here)* | Output compression — *why use many token when few do trick* |
+| [**caveman**](https://github.com/smg-real-estate/caveman) *(you here)* | Output compression — *why use many token when few do trick* |
 | [**caveman-code**](https://github.com/JuliusBrussee/caveman-code) | Whole terminal coding agent — *why use many token when whole agent can save* |
 | [**cavemem**](https://github.com/JuliusBrussee/cavemem) | Cross-agent memory — *why agent forget when agent can remember* |
 | [**cavekit**](https://github.com/JuliusBrussee/cavekit) | Spec-driven build loop — *why agent guess when agent can know* |
@@ -247,13 +247,13 @@ One command. Five skill. Cave well stocked.
 - [CONTRIBUTING.md](./CONTRIBUTING.md) — how to send patch
 - [CLAUDE.md](./CLAUDE.md) — maintainer guide (file ownership, hook architecture, CI)
 - [docs/](./docs/) — extra guides (Windows install, etc.)
-- [Issues](https://github.com/JuliusBrussee/caveman/issues) — bug, feature, weird behavior
+- [Issues](https://github.com/smg-real-estate/caveman/issues) — bug, feature, weird behavior
 
 ## Star This Repo
 
 Caveman save you token, save you money. Star cost zero. Fair trade. ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=JuliusBrussee/caveman&type=Date)](https://star-history.com/#JuliusBrussee/caveman&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=smg-real-estate/caveman&type=Date)](https://star-history.com/#smg-real-estate/caveman&Date)
 
 ## Also by Julius Brussee
 
